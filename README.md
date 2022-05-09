@@ -2,8 +2,8 @@
 
 <!--Contact Us: matheusrodrigues@mundialeditora.com-->
 
-🔭 Freelance front-end / Full Stack web    <br>
-🌱 Estudando JavaScript                    <br>
+🔭 Desenvolvedor Web   <br>
+🌱 Estudando JavaScript / Mysql / Php                   <br>
 📧 Contato em matheusrodrigues@mundialeditora.com <br>
 
 <div>
