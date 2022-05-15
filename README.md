@@ -3,7 +3,7 @@
 <!--Contact Us: matheusrodrigues@mundialeditora.com-->
 
 🔭 Desenvolvedor Web   <br>
-🌱 Estudando JavaScript / Mysql / Php                   <br>
+🌱 Estudando JavaScript / React.Js / Mysql / Php                   <br>
 📧 Contato em matheusrodrigues@mundialeditora.com <br>
 
 <div>
