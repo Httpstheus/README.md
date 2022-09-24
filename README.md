@@ -2,7 +2,7 @@
 
 <!--Contact Us: matheusrodrigues@mundialeditora.com-->
 
-🔭 Desenvolvedor Web   <br>
+🔭 Desenvolvedor Front End   <br>
 🌱 Estudando JavaScript / React.Js / Sql /                   <br>
 📧 Contato em matheusrodrigues@mundialeditora.com <br>
 
