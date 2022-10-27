@@ -29,5 +29,3 @@
 
 </div>
  
-
-  ![Snake animation](https://github.com/Httpstheus/Httpstheus/blob/output/github-contribution-grid-snake.svg)
