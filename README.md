@@ -1,7 +1,7 @@
-# Olá, sou o Matheus :) <br>
-<p style="color: red">Programar é uma forma de construir um novo mundo</p>
+# Olá, sou o Matheus :) <br>>
 <!--Contact Us: matheusrodrigues@mundialeditora.com-->
 
+<p style="color: #000">Programar é uma forma de construir um novo mundo</p
 🔭 Desenvolvedor Front End   <br>
 🌱 Estudando JavaScript / React.Js / Sql /                   <br>
 📧 Contato em matheusrodrigues@mundialeditora.com <br>
