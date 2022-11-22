@@ -1,5 +1,5 @@
 # Olá, sou o Matheus :) <br>
-<small>Programar é uma forma de construir um novo mundo</smal>
+<small style="color: red">Programar é uma forma de construir um novo mundo</smal>
 <!--Contact Us: matheusrodrigues@mundialeditora.com-->
 
 🔭 Desenvolvedor Front End   <br>
