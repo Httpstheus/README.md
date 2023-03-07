@@ -1,29 +1,30 @@
-# Olá, sou o Matheus :) <br>
-<!--Contact Us: matheusrodrigues@mundialeditora.com-->
+# Hi, i'm Matheus Rodrigues <br>
 
-<p>"Programar é uma forma de construir um novo mundo"</p
-🔭 Desenvolvedor Front End   <br>
-🌱 Estudando JavaScript / React.Js / Sql /                   <br>
-📧 Contato em matheusrodrigues@mundialeditora.com <br>
+* 🌍  I'm live in São Paulo, Brazil
+* ✉️  You can contact me at [matheusrodrigues@mundialeditora.com](mailto:matheusrodrigues@mundialeditora.com)
+* 🚀  I'm currently working on [Mundial Editora](https://www.mundialeditora.com/)
+* 🧠  I'm learning Vue.Js
+  
+  
+### Skills
 
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.JS" /></a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.JS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" /></a>
+ <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
+  
+  
+  
+  
+  
+ 
 <div>
   <a href="https://beacons.ai/Httpstheus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Httpstheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Httpstheus&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-
-</div>
-
-  <div>
-  
-   <br>
-   <a href="https://www.instagram.com/https.theus/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-rodrigues-b26794212/" target="_blank"><img height="30em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-    
-</div>
- 
+    </div>
