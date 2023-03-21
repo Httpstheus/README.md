@@ -3,7 +3,7 @@
 * 🌍  I'm live in São Paulo, Brazil
 * ✉️  You can contact me at [matheusrodrigues@mundialeditora.com](mailto:matheusrodrigues@mundialeditora.com)
 * 🚀  I'm currently working on [Mundial Editora](https://www.mundialeditora.com/)
-* 🧠  I'm learning Vue.Js
+* 🧠  I'm learning Vue.Js and Python
   
   
 ### Skills
