@@ -6,7 +6,7 @@
 * 📊  I work as a Strategy/Bi Analyst controlling data, reports, queries and integration in `SQL with scripts in R Language and automation in Pentaho, in addition to developing bots in Python, HTML emails and CRM analysis`
   
  # 🧠  I'm Study and Work With
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="80" height="80"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" width="80" height="80"> <img src="https://static-00.iconduck.com/assets.00/gnu-r-icon-2048x2026-yqaq600y.png" width="80" height="80"> <img src="https://static.wixstatic.com/media/3ee1d0_beb542cd4bd6455fa3fd2d06a360e716~mv2.png/v1/fit/w_886,h_243,al_c,q_80/file.jpg" width="200" height="80"> 
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="50" height="50"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" width="50" height="50"> <img src="https://static-00.iconduck.com/assets.00/gnu-r-icon-2048x2026-yqaq600y.png" width="50" height="50"> <img src="https://static.wixstatic.com/media/3ee1d0_beb542cd4bd6455fa3fd2d06a360e716~mv2.png/v1/fit/w_886,h_243,al_c,q_80/file.jpg" width="150" height="50"> 
   
 ### Frontend & Backend
 
