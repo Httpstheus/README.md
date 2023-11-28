@@ -4,8 +4,8 @@
 * ✉️  You can contact me at [matheusrodrigues@mundialeditora.com](mailto:matheusrodrigues@mundialeditora.com)
 * 🚀  I'm currently working on [Mundial Editora](https://www.mundialeditora.com/)
   
- # 🧠  I'm learning
- <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="80" height="80"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" width="80" height="80">
+ # 🧠  I'm Study and Work With
+ <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" width="80" height="80"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968306.png" width="80" height="80"> <img src="https://static-00.iconduck.com/assets.00/gnu-r-icon-2048x2026-yqaq600y.png" width="80" height="80"> <img src="https://static.wixstatic.com/media/3ee1d0_beb542cd4bd6455fa3fd2d06a360e716~mv2.png/v1/fit/w_886,h_243,al_c,q_80/file.jpg" width="200" height="80">
   
 ### Frontend & Backend
 
